@@ -57,11 +57,11 @@ text = "#E8EEFF"
 # See https://github.com/y3owk1n/neru/blob/main/docs/reference/configuration.md#hotkeys
 # See https://github.com/y3owk1n/neru/blob/main/docs/reference/cli.md
 [hotkeys]
-"Primary+Shift+Space" = "hints --action left_click"
-"Primary+Shift+G" = "grid"
-"Primary+Shift+C" = "recursive_grid"
-"Primary+Shift+B" = "bisect"
-"Primary+Shift+S" = "scroll"
+"Primary+Shift+Space" = "hints --toggle --action left_click"
+"Primary+Shift+G" = "grid --toggle"
+"Primary+Shift+C" = "recursive_grid --toggle"
+"Primary+Shift+B" = "bisect --toggle"
+"Primary+Shift+S" = "scroll --toggle"
 "Primary+Shift+M" = "monitor_select --toggle"
 "Primary+Alt+M" = "action move_monitor"
 

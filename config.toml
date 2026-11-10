@@ -296,7 +296,7 @@ enabled = true
 capture_scope = "screen"                    # screen, window
 grid_cols = 3                               # >= 1
 grid_rows = 3                               # >= 1
-keys = "rtyfghvbn"                          # grid_cols * grid_rows chars
+keys = "ertdfgcvb"                          # grid_cols * grid_rows chars
 min_size_width = 1                          # px
 min_size_height = 1                         # px
 max_depth = 10                              # 1-20
